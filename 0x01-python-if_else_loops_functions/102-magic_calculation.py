@@ -8,4 +8,4 @@ def magic_calculation(a, b, c):
         return (c)
     if c > b:
         return (a + b)
-    return (b*c - a)
+    return (b*a - c)
